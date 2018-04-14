@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="com.example"
+		module="kies-attendance$sources"
+		revision="0.1"
+		conf="container"
+		confs="compile, runtime, test, provided, optional, container, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20180414155732"/>
+	<dependencies>
+		<module organisation="org.mortbay.jetty" name="jetty">
+			<revision name="6.1.22" status="release" pubdate="20091117132810" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="2">
+				<license name="Apache Software License - Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<license name="Eclipse Public License - Version 1.0" url="http://www.eclipse.org/org/documents/epl-v10.php"/>
+				<metadata-artifact status="no" details="" size="6752" time="0" location="/Users/koizumiyunosuke/.ivy2/cache/org.mortbay.jetty/jetty/ivy-6.1.22.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/mortbay/jetty/jetty/6.1.22/jetty-6.1.22.pom"/>
+				<caller organisation="com.example" name="kies-attendance$sources" conf="container" rev="6.1.22" rev-constraint-default="6.1.22" rev-constraint-dynamic="6.1.22" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="jetty" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="394486" time="0" location="/Users/koizumiyunosuke/.ivy2/cache/org.mortbay.jetty/jetty/srcs/jetty-6.1.22-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/mortbay/jetty/jetty/6.1.22/jetty-6.1.22-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.mortbay.jetty" name="jetty-util">
+			<revision name="6.1.22" status="release" pubdate="20091117132556" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="1">
+				<license name="Apache Software License - Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<license name="Eclipse Public License - Version 1.0" url="http://www.eclipse.org/org/documents/epl-v10.php"/>
+				<metadata-artifact status="no" details="" size="6689" time="0" location="/Users/koizumiyunosuke/.ivy2/cache/org.mortbay.jetty/jetty-util/ivy-6.1.22.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/mortbay/jetty/jetty-util/6.1.22/jetty-util-6.1.22.pom"/>
+				<caller organisation="com.example" name="kies-attendance$sources" conf="container" rev="6.1.22" rev-constraint-default="6.1.22" rev-constraint-dynamic="6.1.22" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="jetty-util" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="123125" time="0" location="/Users/koizumiyunosuke/.ivy2/cache/org.mortbay.jetty/jetty-util/srcs/jetty-util-6.1.22-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/mortbay/jetty/jetty-util/6.1.22/jetty-util-6.1.22-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.mortbay.jetty" name="servlet-api">
+			<revision name="2.5-20081211" status="release" pubdate="20081212023400" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="0">
+				<license name="Apache License Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2982" time="0" location="/Users/koizumiyunosuke/.ivy2/cache/org.mortbay.jetty/servlet-api/ivy-2.5-20081211.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211.pom"/>
+				<caller organisation="com.example" name="kies-attendance$sources" conf="container" rev="2.5-20081211" rev-constraint-default="2.5-20081211" rev-constraint-dynamic="2.5-20081211" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="servlet-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="185847" time="0" location="/Users/koizumiyunosuke/.ivy2/cache/org.mortbay.jetty/servlet-api/srcs/servlet-api-2.5-20081211-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/mortbay/jetty/servlet-api/2.5-20081211/servlet-api-2.5-20081211-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>
