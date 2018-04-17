@@ -4,4 +4,9 @@
     <version>alpha-001</version><!-- unused for Cloud SDK based tooling -->
     <runtime>java8</runtime>
     <threadsafe>true</threadsafe>
+    <use-google-connector-j>true</use-google-connector-j>
+    <system-properties>
+        <property name="ae-cloudsql.cloudsql-database-url" value="jdbc:google:mysql://myinstance/users?user=$root&amp;password=x8pzmgnILG337ylj" />
+        <property name="ae-cloudsql.local-database-url" value="jdbc:mysql://google/users?cloudSqlInstance=myinstance&amp;socketFactory=com.google.cloud.sql.mysql.SocketFactory&amp;user=root&amp;password=x8pzmgnILG337ylj&amp;useSSL=false" />
+    </system-properties>
 </appengine-web-app>
