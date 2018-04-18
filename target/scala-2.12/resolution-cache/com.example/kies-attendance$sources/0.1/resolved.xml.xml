@@ -4,7 +4,7 @@
 		module="kies-attendance$sources"
 		revision="0.1"
 		status="integration"
-		publication="20180418234819"
+		publication="20180419001931"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
