@@ -279,17 +279,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] sbt-chain: Checking cache for: dependency: com.google.code.findbugs#jsr305;1.3.9 {compile=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime=[compile, runtime(*), master(compile), runtime, compile(*), master], test=[compile, runtime(*), master(compile), runtime, compile(*), master], compile-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master]}
-[debug] sbt-chain: module revision found in cache: com.google.code.findbugs#jsr305;1.3.9
-[debug] 	found com.google.code.findbugs#jsr305;1.3.9 in sbt-chain
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->compile]
 [debug] sbt-chain: Checking cache for: dependency: ch.qos.logback#logback-core;1.2.3 {compile=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime=[compile, runtime(*), master(compile), runtime, compile(*), master], test=[compile, runtime(*), master(compile), runtime, compile(*), master], compile-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], runtime-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master]}
 [debug] sbt-chain: module revision found in cache: ch.qos.logback#logback-core;1.2.3
@@ -512,14 +501,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->compile]
@@ -736,14 +717,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->compile]
@@ -964,14 +937,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->compile]
@@ -1188,14 +1153,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->compile]
@@ -1412,14 +1369,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [test->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [test->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [test->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [test->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [test->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [test->compile]
@@ -1682,14 +1631,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->compile]
@@ -1908,14 +1849,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile-internal->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile-internal->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile-internal->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile-internal->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile-internal->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile-internal->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile-internal->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile-internal->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile-internal->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile-internal->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile-internal->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile-internal->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile-internal->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile-internal->compile]
@@ -2136,14 +2069,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->compile]
@@ -2360,14 +2285,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->compile]
@@ -2585,14 +2502,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime-internal->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime-internal->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime-internal->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime-internal->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime-internal->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime-internal->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime-internal->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime-internal->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime-internal->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime-internal->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime-internal->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime-internal->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime-internal->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime-internal->compile]
@@ -2814,14 +2723,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [compile->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [compile->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [compile->compile]
@@ -3038,14 +2939,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [runtime->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [runtime->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [runtime->compile]
@@ -3262,14 +3155,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [test->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [test->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [test->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [test->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [test->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [test->compile]
@@ -3488,14 +3373,6 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [test-internal->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [test-internal->compile(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.guava#guava-jdk5;17.0 [test-internal->master]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test-internal->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test-internal->runtime(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test-internal->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test-internal->master(compile)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test-internal->runtime]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test-internal->compile]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test-internal->compile(*)]
-[debug] == resolving dependencies com.example#kies-attendance$sources;0.1->com.google.code.findbugs#jsr305;1.3.9 [test-internal->master]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [test-internal->compile]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [test-internal->runtime(*)]
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->ch.qos.logback#logback-core;1.2.3 [test-internal->compile]
@@ -3569,176 +3446,331 @@
 [debug] == resolving dependencies com.example#kies-attendance$sources;0.1->org.scala-lang#scala-compiler;2.12.5 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/com.google.http-client/google-http-client-jackson2/1.22.0/srcs/google-http-client-jackson2-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.22.0/google-http-client-jackson2-1.22.0-sources.jar
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/com.google.http-client/google-http-client/1.22.0/srcs/google-http-client-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/google/http-client/google-http-client/1.22.0/google-http-client-1.22.0-sources.jar
-[debug] 	[NOT REQUIRED] ch.qos.logback#logback-core;1.2.3!logback-core.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.0.6!scala-parser-combinators_2.12.jar(src)
-[debug] 	[NOT REQUIRED] jline#jline;2.14.5!jline.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.5!scala-compiler.jar(src)
-[debug] 	[NOT REQUIRED] com.googlecode.juniversalchardet#juniversalchardet;1.0.3!juniversalchardet.jar(src)
 [debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.5!scala-library.jar(src)
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] settings loaded (4ms)
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/org.apache.httpcomponents/httpclient/4.0.1/srcs/httpclient-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1-sources.jar
-[debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.1.1!commons-logging.jar(src)
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.5!scala-reflect.jar(src)
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/org.apache.httpcomponents/httpcore/4.0.1/srcs/httpcore-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1-sources.jar
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.25!slf4j-api.jar(src)
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/com.google.oauth-client/google-oauth-client/1.22.0/srcs/google-oauth-client-sources.jar
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] settings loaded (6ms)
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] 	[NOT REQUIRED] org.skinny-framework#skinny-micro_2.12;1.3.0!skinny-micro_2.12.jar(src)
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/com.google.api-client/google-api-client/1.22.0/srcs/google-api-client-sources.jar
-[debug] 	[NOT REQUIRED] org.mortbay.jetty#jetty-util;6.1.22!jetty-util.jar(src)
-[debug] settings loaded (6ms)
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] 	[NOT REQUIRED] org.mortbay.jetty#servlet-api;2.5-20081211!servlet-api.jar(src)
 [debug] 	[NOT REQUIRED] ch.qos.logback#logback-classic;1.2.3!logback-classic.jar(src)
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/com.google.guava/guava-jdk5/17.0/srcs/guava-jdk5-sources.jar
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] 	[NOT REQUIRED] javax.servlet#javax.servlet-api;3.1.0!javax.servlet-api.jar(src)
-[debug] 		tried https://repo1.maven.org/maven2/com/google/guava/guava-jdk5/17.0/guava-jdk5-17.0-sources.jar
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] 	[NOT REQUIRED] org.mortbay.jetty#jetty;6.1.22!jetty.jar(src)
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/commons-codec/commons-codec/1.3/srcs/commons-codec-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/commons-codec/commons-codec/1.3/commons-codec-1.3-sources.jar
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/com.google.code.findbugs/jsr305/1.3.9/srcs/jsr305-sources.jar
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/com.google.cloud.sql/mysql-socket-factory/1.0.2/srcs/mysql-socket-factory-sources.jar
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/com.google.apis/google-api-services-sqladmin/v1beta4-rev25-1.22.0/srcs/google-api-services-sqladmin-sources.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.5!scala-library.jar(src)
 [debug] 	[NOT REQUIRED] mysql#mysql-connector-java;5.1.40!mysql-connector-java.jar(src)
 [debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.1.1!commons-logging.jar(src)
+[debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.25!slf4j-api.jar(src)
+[debug] 	[NOT REQUIRED] com.google.http-client#google-http-client-jackson2;1.22.0!google-http-client-jackson2.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.google.http-client#google-http-client;1.22.0!google-http-client.jar(src)
+[debug] 	[NOT REQUIRED] com.google.oauth-client#google-oauth-client;1.22.0!google-oauth-client.jar(src)
+[debug] 	[NOT REQUIRED] ch.qos.logback#logback-core;1.2.3!logback-core.jar(src)
+[debug] 	[NOT REQUIRED] com.google.cloud.sql#mysql-socket-factory;1.0.2!mysql-socket-factory.jar(src)
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-core;2.1.3!jackson-core.jar(src)
+[debug] 	[NOT REQUIRED] com.google.cloud.sql#mysql-socket-factory-core;1.0.2!mysql-socket-factory-core.jar(src)
 [debug] 	[NOT REQUIRED] org.skinny-framework#skinny-micro-common_2.12;1.3.0!skinny-micro-common_2.12.jar(src)
+[debug] 	[NOT REQUIRED] jline#jline;2.14.5!jline.jar(src)
+[debug] 	[NOT REQUIRED] com.google.apis#google-api-services-sqladmin;v1beta4-rev25-1.22.0!google-api-services-sqladmin.jar(src)
 [debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/com.google.cloud.sql/mysql-socket-factory-core/1.0.2/srcs/mysql-socket-factory-core-sources.jar
 [debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] 		tried /Users/koizumiyunosuke/.ivy2/local/com.fasterxml.jackson.core/jackson-core/2.1.3/srcs/jackson-core-sources.jar
+[debug] 	[NOT REQUIRED] commons-codec#commons-codec;1.3!commons-codec.jar(src)
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] 	[NOT REQUIRED] org.skinny-framework#skinny-micro_2.12;1.3.0!skinny-micro_2.12.jar(src)
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.5!scala-reflect.jar(src)
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] 	[NOT REQUIRED] javax.servlet#javax.servlet-api;3.1.0!javax.servlet-api.jar(src)
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.0.1!httpcore.jar(src)
+[debug] 	[NOT REQUIRED] com.google.guava#guava-jdk5;17.0!guava-jdk5.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.5!scala-compiler.jar(src)
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] 	[NOT REQUIRED] org.mortbay.jetty#jetty-util;6.1.22!jetty-util.jar(src)
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] 	[NOT REQUIRED] com.googlecode.juniversalchardet#juniversalchardet;1.0.3!juniversalchardet.jar(src)
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.0.1!httpclient.jar(src)
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] 	[NOT REQUIRED] org.mortbay.jetty#servlet-api;2.5-20081211!servlet-api.jar(src)
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] 	[NOT REQUIRED] com.google.api-client#google-api-client;1.22.0!google-api-client.jar(src)
+[debug] 	[NOT REQUIRED] org.mortbay.jetty#jetty;6.1.22!jetty.jar(src)
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
 [debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] settings loaded (45ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] settings loaded (42ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
 [debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
 [debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
 [debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] no default ivy user dir defined: set to /Users/koizumiyunosuke/.ivy2
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] settings loaded (46ms)
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] settings loaded (44ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
 [debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] settings loaded (64ms)
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
 [debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] settings loaded (61ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] settings loaded (70ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] settings loaded (75ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] settings loaded (19ms)
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] settings loaded (68ms)
 [debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
 [debug] 	default resolver: default
 [debug] 	-- 5 resolvers:
 [debug] 	shared [file]
 [debug] 	default [chain] [local, main]
 [debug] 	public [ibiblio]
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] 	main [chain] [shared, public]
 [debug] 	local [file]
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] settings loaded (59ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] settings loaded (81ms)
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] settings loaded (71ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] settings loaded (78ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] settings loaded (25ms)
+[debug] settings loaded (83ms)
 [debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
 [debug] 	default resolver: default
 [debug] 	-- 5 resolvers:
@@ -3747,130 +3779,126 @@
 [debug] 	public [ibiblio]
 [debug] 	main [chain] [shared, public]
 [debug] 	local [file]
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (10ms)
+[debug] settings loaded (82ms)
 [debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
 [debug] 	default resolver: default
 [debug] 	-- 5 resolvers:
 [debug] 	shared [file]
 [debug] 	default [chain] [local, main]
 [debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] 		tried https://repo1.maven.org/maven2/com/google/api-client/google-api-client/1.22.0/google-api-client-1.22.0-sources.jar
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] settings loaded (13ms)
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
 [debug] 	main [chain] [shared, public]
 [debug] 	local [file]
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] 		tried https://repo1.maven.org/maven2/com/google/cloud/sql/mysql-socket-factory-core/1.0.2/mysql-socket-factory-core-1.0.2-sources.jar
-[debug] settings loaded (23ms)
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] settings loaded (14ms)
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] 	local [file]
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] settings loaded (14ms)
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	default resolver: default
-[debug] settings loaded (17ms)
-[debug] 	-- 5 resolvers:
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	shared [file]
-[debug] 	default resolver: default
-[debug] 	default [chain] [local, main]
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	public [ibiblio]
-[debug] 	default [chain] [local, main]
-[debug] 	main [chain] [shared, public]
-[debug] 	public [ibiblio]
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] 	local [file]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] 		tried https://repo1.maven.org/maven2/com/google/apis/google-api-services-sqladmin/v1beta4-rev25-1.22.0/google-api-services-sqladmin-v1beta4-rev25-1.22.0-sources.jar
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] settings loaded (16ms)
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] settings loaded (13ms)
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] 		tried https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.3/jackson-core-2.1.3-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/google/cloud/sql/mysql-socket-factory/1.0.2/mysql-socket-factory-1.0.2-sources.jar
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] settings loaded (11ms)
-[debug] settings loaded (15ms)
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] 	local [file]
-[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] 		tried https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9-sources.jar
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] settings loaded (38ms)
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] no default cache defined: set to /Users/koizumiyunosuke/.ivy2/cache
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] settings loaded (108ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] settings loaded (73ms)
+[debug] 	default [chain] [local, main]
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	public [ibiblio]
+[debug] 	-- 5 resolvers:
+[debug] 	main [chain] [shared, public]
+[debug] 	shared [file]
+[debug] 	local [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] settings loaded (76ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] settings loaded (97ms)
+[debug] 	-- 5 resolvers:
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	shared [file]
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] settings loaded (96ms)
+[debug] 	shared [file]
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default [chain] [local, main]
+[debug] 	default [chain] [local, main]
+[debug] 	default resolver: default
+[debug] 	public [ibiblio]
+[debug] 	public [ibiblio]
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	main [chain] [shared, public]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] 	local [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] settings loaded (106ms)
+[debug] settings loaded (82ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] settings loaded (79ms)
+[debug] 	public [ibiblio]
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default [chain] [local, main]
+[debug] 	default resolver: default
+[debug] 	public [ibiblio]
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] 	default [chain] [local, main]
+[debug] 	main [chain] [shared, public]
+[debug] 	public [ibiblio]
+[debug] 	local [file]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] settings loaded (133ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] settings loaded (143ms)
 [debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
 [debug] 	default resolver: default
 [debug] 	-- 5 resolvers:
@@ -3881,7 +3909,16 @@
 [debug] 	local [file]
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] settings loaded (47ms)
+[debug] settings loaded (132ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] settings loaded (118ms)
 [debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
 [debug] 	default resolver: default
 [debug] 	-- 5 resolvers:
@@ -3891,93 +3928,35 @@
 [debug] 	main [chain] [shared, public]
 [debug] 	local [file]
 [debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (37ms)
+[debug] settings loaded (145ms)
 [debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
 [debug] 	default resolver: default
+[debug] including url: jar:file:/Users/koizumiyunosuke/.sbt/boot/scala-2.12.4/org.scala-sbt/sbt/1.1.4/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
 [debug] 	-- 5 resolvers:
 [debug] 	shared [file]
 [debug] 	default [chain] [local, main]
 [debug] 	public [ibiblio]
 [debug] 	main [chain] [shared, public]
 [debug] 	local [file]
-[debug] 		tried https://repo1.maven.org/maven2/com/google/oauth-client/google-oauth-client/1.22.0/google-oauth-client-1.22.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/google/http-client/google-http-client/1.22.0/google-http-client-1.22.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/http-client/google-http-client/1.22.0/google-http-client-1.22.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.22.0/google-http-client-jackson2-1.22.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.22.0/google-http-client-jackson2-1.22.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/google/guava/guava-jdk5/17.0/guava-jdk5-17.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/guava/guava-jdk5/17.0/guava-jdk5-17.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1-sources.jar.sha1
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.22.0/google-http-client-jackson2-1.22.0-sources.jar.sha1
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/http-client/google-http-client/1.22.0/google-http-client-1.22.0-sources.jar.sha1
-[debug] CLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9-sources.jar
-[debug] 		tried /Users/koizumiyunosuke/.sbt/preloaded/com.google.code.findbugs/jsr305/1.3.9/srcs/jsr305-sources.jar
-[debug] 		tried file:////Users/koizumiyunosuke/.sbt/preloaded/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9-sources.jar
-[warn] 	Detected merged artifact: [FAILED     ] com.google.code.findbugs#jsr305;1.3.9!jsr305.jar(src):  (0ms).
-[warn] ==== local: tried
-[warn] ==== public: tried
-[warn] ==== local-preloaded-ivy: tried
-[warn]   /Users/koizumiyunosuke/.sbt/preloaded/com.google.code.findbugs/jsr305/1.3.9/srcs/jsr305-sources.jar
-[warn] ==== local-preloaded: tried
-[warn]   file:////Users/koizumiyunosuke/.sbt/preloaded/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.3/jackson-core-2.1.3-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.3/jackson-core-2.1.3-sources.jar
-[info] downloading https://repo1.maven.org/maven2/commons-codec/commons-codec/1.3/commons-codec-1.3-sources.jar ...
-[info] downloading https://repo1.maven.org/maven2/com/google/oauth-client/google-oauth-client/1.22.0/google-oauth-client-1.22.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/oauth-client/google-oauth-client/1.22.0/google-oauth-client-1.22.0-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/commons-codec/commons-codec/1.3/commons-codec-1.3-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/google/api-client/google-api-client/1.22.0/google-api-client-1.22.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/api-client/google-api-client/1.22.0/google-api-client-1.22.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/google/cloud/sql/mysql-socket-factory/1.0.2/mysql-socket-factory-1.0.2-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/cloud/sql/mysql-socket-factory/1.0.2/mysql-socket-factory-1.0.2-sources.jar
-[info] downloading https://repo1.maven.org/maven2/com/google/apis/google-api-services-sqladmin/v1beta4-rev25-1.22.0/google-api-services-sqladmin-v1beta4-rev25-1.22.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/apis/google-api-services-sqladmin/v1beta4-rev25-1.22.0/google-api-services-sqladmin-v1beta4-rev25-1.22.0-sources.jar
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1-sources.jar
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/google/http-client/google-http-client/1.22.0/google-http-client-1.22.0-sources.jar
-[info] 	[SUCCESSFUL ] org.apache.httpcomponents#httpcore;4.0.1!httpcore.jar(src) (745ms)
-[info] 	[SUCCESSFUL ] com.google.http-client#google-http-client;1.22.0!google-http-client.jar(src) (779ms)
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/google/http-client/google-http-client-jackson2/1.22.0/google-http-client-jackson2-1.22.0-sources.jar
-[info] 	[SUCCESSFUL ] com.google.http-client#google-http-client-jackson2;1.22.0!google-http-client-jackson2.jar(src) (786ms)
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1-sources.jar.sha1
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/cloud/sql/mysql-socket-factory/1.0.2/mysql-socket-factory-1.0.2-sources.jar.sha1
-[info] downloading https://repo1.maven.org/maven2/com/google/cloud/sql/mysql-socket-factory-core/1.0.2/mysql-socket-factory-core-1.0.2-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/cloud/sql/mysql-socket-factory-core/1.0.2/mysql-socket-factory-core-1.0.2-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/commons-codec/commons-codec/1.3/commons-codec-1.3-sources.jar.sha1
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/oauth-client/google-oauth-client/1.22.0/google-oauth-client-1.22.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/google/cloud/sql/mysql-socket-factory/1.0.2/mysql-socket-factory-1.0.2-sources.jar
-[info] 	[SUCCESSFUL ] com.google.cloud.sql#mysql-socket-factory;1.0.2!mysql-socket-factory.jar(src) (1061ms)
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.0.1/httpclient-4.0.1-sources.jar
-[info] 	[SUCCESSFUL ] org.apache.httpcomponents#httpclient;4.0.1!httpclient.jar(src) (1102ms)
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/cloud/sql/mysql-socket-factory-core/1.0.2/mysql-socket-factory-core-1.0.2-sources.jar.sha1
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/api-client/google-api-client/1.22.0/google-api-client-1.22.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/google/oauth-client/google-oauth-client/1.22.0/google-oauth-client-1.22.0-sources.jar
-[debug] sha1 OK for https://repo1.maven.org/maven2/commons-codec/commons-codec/1.3/commons-codec-1.3-sources.jar
-[info] 	[SUCCESSFUL ] commons-codec#commons-codec;1.3!commons-codec.jar(src) (1297ms)
-[info] 	[SUCCESSFUL ] com.google.oauth-client#google-oauth-client;1.22.0!google-oauth-client.jar(src) (1269ms)
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/google/cloud/sql/mysql-socket-factory-core/1.0.2/mysql-socket-factory-core-1.0.2-sources.jar
-[info] 	[SUCCESSFUL ] com.google.cloud.sql#mysql-socket-factory-core;1.0.2!mysql-socket-factory-core.jar(src) (1420ms)
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/google/api-client/google-api-client/1.22.0/google-api-client-1.22.0-sources.jar
-[info] 	[SUCCESSFUL ] com.google.api-client#google-api-client;1.22.0!google-api-client.jar(src) (1474ms)
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.3/jackson-core-2.1.3-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.3/jackson-core-2.1.3-sources.jar
-[info] 	[SUCCESSFUL ] com.fasterxml.jackson.core#jackson-core;2.1.3!jackson-core.jar(src) (1758ms)
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/apis/google-api-services-sqladmin/v1beta4-rev25-1.22.0/google-api-services-sqladmin-v1beta4-rev25-1.22.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/google/apis/google-api-services-sqladmin/v1beta4-rev25-1.22.0/google-api-services-sqladmin-v1beta4-rev25-1.22.0-sources.jar
-[info] 	[SUCCESSFUL ] com.google.apis#google-api-services-sqladmin;v1beta4-rev25-1.22.0!google-api-services-sqladmin.jar(src) (2473ms)
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/google/guava/guava-jdk5/17.0/guava-jdk5-17.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/google/guava/guava-jdk5/17.0/guava-jdk5-17.0-sources.jar
-[info] 	[SUCCESSFUL ] com.google.guava#guava-jdk5;17.0!guava-jdk5.jar(src) (5740ms)
-[debug] :: resolution report :: resolve 221ms :: artifacts dl 5794ms
-[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
-[warn] 	::              FAILED DOWNLOADS            ::
-[warn] 	:: ^ see resolution messages for details  ^ ::
-[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
-[warn] 	:: com.google.code.findbugs#jsr305;1.3.9!jsr305.jar(src)
-[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[debug] settings loaded (91ms)
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] settings loaded (142ms)
+[debug] 	-- 5 resolvers:
+[debug] 	default cache: /Users/koizumiyunosuke/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	shared [file]
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] 	local [file]
+[debug] :: resolution report :: resolve 998ms :: artifacts dl 180ms
 [debug] 	report for com.example#kies-attendance$sources;0.1 compile produced in /Users/koizumiyunosuke/IdeaProjects/kies-attendance/target/scala-2.12/resolution-cache/reports/com.example-kies-attendance$sources-compile.xml
 [debug] 	report for com.example#kies-attendance$sources;0.1 runtime produced in /Users/koizumiyunosuke/IdeaProjects/kies-attendance/target/scala-2.12/resolution-cache/reports/com.example-kies-attendance$sources-runtime.xml
 [debug] 	report for com.example#kies-attendance$sources;0.1 test produced in /Users/koizumiyunosuke/IdeaProjects/kies-attendance/target/scala-2.12/resolution-cache/reports/com.example-kies-attendance$sources-test.xml
@@ -3990,4 +3969,4 @@
 [debug] 	report for com.example#kies-attendance$sources;0.1 plugin produced in /Users/koizumiyunosuke/IdeaProjects/kies-attendance/target/scala-2.12/resolution-cache/reports/com.example-kies-attendance$sources-plugin.xml
 [debug] 	report for com.example#kies-attendance$sources;0.1 pom produced in /Users/koizumiyunosuke/IdeaProjects/kies-attendance/target/scala-2.12/resolution-cache/reports/com.example-kies-attendance$sources-pom.xml
 [debug] 	report for com.example#kies-attendance$sources;0.1 scala-tool produced in /Users/koizumiyunosuke/IdeaProjects/kies-attendance/target/scala-2.12/resolution-cache/reports/com.example-kies-attendance$sources-scala-tool.xml
-[debug] 	resolve done (221ms resolve - 5794ms download)
+[debug] 	resolve done (998ms resolve - 180ms download)

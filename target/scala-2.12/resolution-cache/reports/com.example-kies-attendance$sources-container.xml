@@ -7,7 +7,7 @@
 		revision="0.1"
 		conf="container"
 		confs="compile, runtime, test, provided, optional, container, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20180418002621"/>
+		date="20180418234819"/>
 	<dependencies>
 		<module organisation="org.mortbay.jetty" name="jetty">
 			<revision name="6.1.22" status="release" pubdate="20091117132810" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="2">
